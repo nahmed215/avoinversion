@@ -1,4 +1,4 @@
-# avo_inversion
+# avoinversion
 Adjoint-state based AVO Inversion Method
 Coding Pakage for Computer & Geoscience paper entitled "Constrained Non-linear AVO Inversion based on the Adjoint-State Optimization".
 This folder contains two main files titled 'Make_Synthetics.m & Non_linear_AVO_Inversion' alongwith exampledata.mat. Kepp all three files in a single folder.
