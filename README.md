@@ -4,7 +4,7 @@ Adjoint-state based AVO Inversion Method
 Coding Pakage for Computer & Geoscience paper entitled "Constrained Non-linear AVO Inversion based on the Adjoint-State Optimization".
 
 Please cite this article as: N. Ahmed, W.W. Weibull and D. Grana, Constrained non-linear AVO
-inversion based on the adjoint-state optimization. Computers and Geosciences (2022), doi:
+inversion based on the adjoint-state optimization. Computers and Geosciences (2022), Vol. 168, doi:
 https://doi.org/10.1016/j.cageo.2022.105214.
 
 This folder contains two main files titled 'Make_Synthetics.m & Non_linear_AVO_Inversion' alongwith exampledata.mat. Kepp all three files in a single folder.
