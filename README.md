@@ -11,9 +11,9 @@ https://doi.org/10.1016/j.cageo.2022.105214.**
 
 For the LaTeX editor: 
 
-@article{ahmed2022constrained,
-  title={Constrained non-linear AVO inversion based on the adjoint-state optimization},
-  author={Ahmed, Nisar and Weibull, Wiktor Waldemar and Grana, Dario},
+@article{ahmed2022constrained,\
+  title={Constrained non-linear AVO inversion based on the adjoint-state optimization},\
+  author={Ahmed, Nisar and Weibull, Wiktor Waldemar and Grana, Dario},\
   journal={Computers \& Geosciences},
   volume={168},
   pages={105214},
