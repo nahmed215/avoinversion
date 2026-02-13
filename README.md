@@ -14,12 +14,12 @@ For the LaTeX editor:
 @article{ahmed2022constrained,\
   title={Constrained non-linear AVO inversion based on the adjoint-state optimization},\
   author={Ahmed, Nisar and Weibull, Wiktor Waldemar and Grana, Dario},\
-  journal={Computers \& Geosciences},
-  volume={168},
-  pages={105214},
-  year={2022},
-  publisher={Elsevier}
-}
+  journal={Computers \& Geosciences},\
+  volume={168},\
+  pages={105214},\
+  year={2022},\
+  publisher={Elsevier}\
+}\
 
 This folder contains two main files titled 'Make_Synthetics.m & Non_linear_AVO_Inversion' alongwith exampledata.mat. Keep all three files in a single folder.
 To run non-linear avo inversion, the following functions are required (keep all the below functions in another folder with the name Function).
